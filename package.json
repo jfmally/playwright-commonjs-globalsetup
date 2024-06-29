@@ -1,5 +1,5 @@
 {
-  "name": "playwright-cjs-globalsetup",
+  "name": "playwright-commonjs-globalsetup",
   "version": "1.0.0",
   "scripts": {
     "start": "playwright test"

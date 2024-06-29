@@ -1,6 +1,7 @@
-# Evinced Playwright JS SDK Example — CommonJS with globalSetup auth
+# Playwright JS SDK example — globalSetup auth with CommonJS modules
 
-Illustrates SDK usage with CommonJS modules and globalSetup SDK authorization.
+This example illustrates Evinced Playwright JS SDK usage in a CommonJS module
+context with authorization in a globalSetup module.
 
 ## Authorization
 
@@ -52,8 +53,8 @@ Successful execution should echo the following:
 
 Evinced SDK is authorized.
 
-Running 7 tests using 5 workers
-  7 passed (7.0s)
+Running 6 tests using 5 workers
+  6 passed (7.0s)
 
 To open last HTML report run:
 
